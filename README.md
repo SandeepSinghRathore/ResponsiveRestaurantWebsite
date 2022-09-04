@@ -3,6 +3,4 @@
 ![Restaurant_website](https://github.com/codersgyan/Responsive-restaurant-website/blob/master/restaurant-webpage.jpg)
 
 
-#### Demo: https://codersgyan.github.io/Responsive-restaurant-website/
-
 
